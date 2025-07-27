@@ -63,7 +63,7 @@ I believe in:
 
 I'm always excited to collaborate on interesting projects or discuss technology and programming. Feel free to reach out!
 
-- **GitHub**: [@SyedSohaibAhmed](https://github.com/SyedSohaibAhmed)
+2- **GitHub**: [@SyedSohaibAhmed](https://github.com/syedsohaib271)
 - **Email**: syedsohaib271@gmail.com
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/syed-sohaib-033198365/)
 
